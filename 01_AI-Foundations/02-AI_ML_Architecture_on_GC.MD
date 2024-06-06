@@ -11,6 +11,7 @@
 
 ![image](../Assets/Google_contribution_to_AI_advancements.png)
 
+
 Google integrated responsible AI into its AI principles.
 **`Responsible AI`** refers to the development and use of AI systems in a way that prioritizes ethical considerations, fairness, accountability, safety and transparency.
 
